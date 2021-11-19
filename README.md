@@ -15,4 +15,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFluyd&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotFluyd&theme=dark" />
-<a href="hhttps://github.com/notfluyd/emojigo" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotFluyd&repo=EmojiGo&theme=dark" /></a>
+<a href="https://github.com/notfluyd/emojigo" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotFluyd&repo=EmojiGo&theme=dark" /></a>
