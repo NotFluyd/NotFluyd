@@ -13,6 +13,5 @@
 <a href="https://www.youtube.com/c/fluyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fluyd" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFluyd&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotFluyd&theme=dark" />
 <a href="https://github.com/notfluyd/emojigo" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotFluyd&repo=EmojiGo&theme=dark" /></a>
